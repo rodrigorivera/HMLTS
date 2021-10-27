@@ -1,0 +1,3 @@
+[submodule "HierarchicalMetaLearningTS"]
+	path = HierarchicalMetaLearningTS
+	url = git@github.com:rodrigorivera/HierarchicalMetaLearningTS.git
